@@ -1,7 +1,7 @@
 # Personal builds
-Notice: *Better build from source yourself*  
+Notice: **Better build from source yourself**  
 
-Native addons built from *modified* versions of uWebsockets, uSockets, uWebsockets.js git repos  
+Native addons built from **modified** versions of uWebsockets, uSockets, uWebsockets.js git repos  
 Native addons built in CentOS 7.x and for CentOS 7.x  
 Modifications probably will touch only build process but you better off following advice in above Notice  
 If you are too lazy - use on your own risk (maybe I'm secretly farming crypto, ha-ha)  
